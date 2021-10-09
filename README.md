@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I eat a lot and don't get fat 
 
+![stats](https://github-readme-stats.vercel.app/api?username=abdalrhmanBanyissa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
