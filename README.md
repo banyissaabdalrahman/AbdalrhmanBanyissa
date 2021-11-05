@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm currently working in Aspire and training in Atypon
 - 🌱 I’m currently learning Java and Devops
-- 📫 How to reach me: [Facebook - عبدالرحمن بني عيسى](https://www.facebook.com/abood.banyissa.9) [Instagram - aboood.banyissa](https://www.instagram.com/aboood.banyissa/)
+- 📫 How to reach me: [Facebook - عبدالرحمن بني عيسى](https://www.facebook.com/abood.banyissa.9) [Instagram - aboood.banyissa](https://www.instagram.com/aboood.banyissa/) [Linkedin - Abdalrhman Banyissa](https://www.linkedin.com/in/abdalrhman-banyissa-08310a196/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I eat a lot and don't get fat 
 
