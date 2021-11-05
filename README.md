@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 🔭 I'm currently training in Atypon
+- 🔭 I'm currently working in Aspire and training in Atypon
 - 🌱 I’m currently learning Java and Devops
 - 📫 How to reach me: [Facebook - عبدالرحمن بني عيسى](https://www.facebook.com/abood.banyissa.9) [Instagram - aboood.banyissa](https://www.instagram.com/aboood.banyissa/)
 - 😄 Pronouns: He/His
